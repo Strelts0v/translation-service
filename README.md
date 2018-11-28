@@ -27,11 +27,6 @@ java -jar translationService.jar"
 - messages_zh_CN.properties
 - etc ...
 
-5. And finally you can copy these generated files with messages to the folder with messages of APExpressWeb application. Here is the path to the target folder (regarding the root folder of the whole project):
-`
-Documents\NetBeansProjects\APExpressWeb\web\WEB-INF\messages
-`
-
 ## Issues
 
 ### 1. Expiring of API key
