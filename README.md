@@ -1,4 +1,4 @@
-# APX Translation service
+# Translation service
 
 ## Launching app
 
