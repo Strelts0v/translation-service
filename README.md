@@ -11,7 +11,7 @@ mvn install
 
 3. Open folder "target" in console and input:
 `
-java -jar translationService.jar"
+java -jar translationService.jar
 `
 
 4. After 8 minutes of executing (on my local machine) you'll see in target folder generated messages files:
